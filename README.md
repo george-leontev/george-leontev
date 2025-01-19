@@ -1,7 +1,7 @@
 # <div align="center" style="color:#e34f26">Hi 👋, I'm George</span>
 
 
-### <div align="center"> Python/React Fullstack Developer 🚀 </div>
+### <div align="center"> JavaScript/React Fullstack Developer 🚀 </div>
 
 ## 📈 GitHub Stats
 
