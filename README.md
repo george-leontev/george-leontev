@@ -1,4 +1,4 @@
-# <div align="center" style="color:#e34f26">Hi 👋, I'm George</span>
+# <div align="center" style="color:#e34f26">Hi 👋, I'm Egor</span>
 
 
 ### <div align="center"> Fullstack Developer 🚀 </div>
