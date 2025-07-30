@@ -71,6 +71,7 @@
 </div>
 
 ## 🤝 Feel free to contact with me
+### I am glad that you visited my GitHub profile, if you have an interesting idea or suggestion for me, you can easily contact me via:
 #### <ul>
 ####     <li>Telegram: <a href="https://t.me/Egor_Leontev24">Egor_Leontev24</a></li>
 ####     <li>Email: <a href="mailto:egorleontev54@gmail.com?subject=Вопрос по сотрудничеству&body=Здравствуйте!">egorleontev54@gmail.com<a/></li>
