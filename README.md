@@ -65,30 +65,18 @@
 
 <hr>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 22px; height: 60px; padding-top: 46px;>
+<div align="center">
 
 [![Codewars](https://www.codewars.com/users/george-leontev/badges/large)](https://www.codewars.com/users/george-leontev)
 </div>
 
-
-## 📈 GitHub Stats
-
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=george-leontev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="My GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-leontev&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=george-leontev&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 ## 🤝 Feel free to contact with me
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 22px; height: 100px;">
+<div align="center">
     <a href="https://t.me/Egor_Leontev24" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="40"/>
     </a>
-    <a href="mailto:egorleontev54@gmail.com?subject=Вопрос по сотрудничеству&body=Здравствуйте!">
+    <a href="https://mail.google.com/mail/u/0/popout?ver=zs1qyhlt6gr6#th%253D%252523thread-a%25253Ar724545866289666095">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40"//>
     </a>
 </div>
