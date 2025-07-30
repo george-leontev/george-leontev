@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&color=FF7F50&center=true&vCenter=true&width=435&lines=Turning+ideas+into+reality;Clean+code+enthusiast;Problem+solver;Continuous+learner" alt="Typing SVG" />
 </div>
 
-### Welcome to my GitHub! Below you will find information about my skills, projects, and how to contact me.
+### Welcome to my GitHub! Below you will find information about my skills, projects, and how to contact with me.
 
 ## 🛠️ My Tech Stack
 
@@ -26,8 +26,8 @@
     <img src="./.assets/nodejs.png" alt="Node.js" height="40"/>
     <img src="./.assets/nest.png" alt="NestJS" height="40"/>
     <img src="./.assets/react.png" alt="React" height="40"/>
-    <img style="margin-bottom: -16px" src="./.assets/nextjs.svg" alt="NextJS" height="70"/>
-    <img style="margin-bottom: 7px" src="./.assets/docker.png" alt="Docker" height="34"/>
+    <img src="./.assets/nextjs.svg" alt="NextJS" height="70"/>
+    <img src="./.assets/docker.png" alt="Docker" height="34"/>
     <img src="./.assets/linux.png" alt="Linux" height="40"/>
     <img src="./.assets/swagger.png" alt="Swagger" height="40"/>
     <img src="./.assets/graphql.png" alt="GraphQL"" height="40"/>
@@ -40,15 +40,17 @@
 ### Skills with minor experience 🌱
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 22px; height: 100px;">
-    <img style="margin-bottom: -14px" src="./.assets/nginx.png" alt="Nginx" height="80"/>
+    <img src="./.assets/nginx.png" alt="Nginx" height="80"/>
     <img src="./.assets/mysql.png" alt="mySQL" height="40"/>
-    <img style="margin-bottom: -16px" src="./.assets/rabbitmq.png" alt="Rabbitmq" height="80"/>
-    <img style="margin-bottom: -12px" src="./.assets/socketio.png" alt="GraphQL"" height="80"/>
-    <img style="margin-bottom: -2px"  src="./.assets/kafka.png" alt="Kafka" height="46"/>
-    <img style="margin-bottom: -12px" src="./.assets/spring.png" alt="Spring" height="100"/>
-    <img style="margin-bottom: -12px" src="./.assets/apollo.svg" alt="Apollo Server" height="40"/>
-    <img style="margin-bottom: -12px" src="./.assets/fastapi.png" alt="FastAPI" height="100"/>
+    <img src="./.assets/rabbitmq.png" alt="Rabbitmq" height="80"/>
+    <img src="./.assets/socketio.png" alt="GraphQL"" height="80"/>
+    <img src="./.assets/kafka.png" alt="Kafka" height="46"/>
+    <img src="./.assets/spring.png" alt="Spring" height="100"/>
+    <img src="./.assets/apollo.svg" alt="Apollo Server" height="40"/>
+    <img src="./.assets/fastapi.png" alt="FastAPI" height="100"/>
 </div>
+
+<hr>
 
 ### Soft skills and hobbies
 #### <ul>
@@ -59,17 +61,6 @@
 ####     <li>Sport</li>
 ####     <li>Sense of humor</li>
 #### </ul>
-
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 22px; height: 100px;">
-    <img style="margin-bottom: -14px" src="./.assets/nginx.png" alt="Nginx" height="80"/>
-    <img src="./.assets/mysql.png" alt="mySQL" height="40"/>
-    <img style="margin-bottom: -16px" src="./.assets/rabbitmq.png" alt="Rabbitmq" height="80"/>
-    <img style="margin-bottom: -12px" src="./.assets/socketio.png" alt="GraphQL"" height="80"/>
-    <img style="margin-bottom: -2px"  src="./.assets/kafka.png" alt="Kafka" height="46"/>
-    <img style="margin-bottom: -12px" src="./.assets/spring.png" alt="Spring" height="100"/>
-    <img style="margin-bottom: -12px" src="./.assets/apollo.svg" alt="Apollo Server" height="40"/>
-    <img style="margin-bottom: -12px" src="./.assets/fastapi.png" alt="FastAPI" height="100"/>
-</div>
 
 <hr>
 
