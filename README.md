@@ -11,10 +11,10 @@
 ## 🛠️ My Tech Stack
 
 ### Programming languages
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px; min-height: 100px">
-    <img src="./.assets/typescript.svg" alt="TypeScript" height="40"/>
-    <img src="./.assets/javascript.svg" alt="JavaScript" height="40"/>
-    <img src="./.assets/java.svg" alt="Java" height="40"/>
+<div align="center">
+    <img src="./.assets/typescript.svg" alt="TypeScript" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/javascript.svg" alt="JavaScript" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/java.svg" alt="Java" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/python.svg" alt="Python" height="40"/>
 </div>
 
@@ -22,16 +22,16 @@
 
 ### Major skills with rich experience 🔥
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px; min-height: 100px">
-    <img src="./.assets/nodejs.png" alt="Node.js" height="34"/>
-    <img src="./.assets/nest.png" alt="NestJS" height="34"/>
-    <img src="./.assets/react.png" alt="React" height="34"/>
-    <img src="./.assets/nextjs.png" alt="NextJS" height="34"/>
-    <img src="./.assets/docker.png" alt="Docker" height="34"/>
-    <img src="./.assets/linux.png" alt="Linux" height="34"/>
-    <img src="./.assets/swagger.png" alt="Swagger" height="34"/>
-    <img src="./.assets/graphql.png" alt="GraphQL"" height="34"/>
-    <img src="./.assets/postgres.png" alt="PostgreSQL" height="34"/>
+<div align="center">
+    <img src="./.assets/nodejs.png" alt="Node.js" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/nest.png" alt="NestJS" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/react.png" alt="React" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/nextjs.png" alt="NextJS" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/docker.png" alt="Docker" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/linux.png" alt="Linux" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/swagger.png" alt="Swagger" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/graphql.png" alt="GraphQL"" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/postgres.png" alt="PostgreSQL" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/git.png" alt="Git" height="34"/>
 </div>
 
@@ -39,15 +39,15 @@
 
 ### Skills with minor experience 🌱
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px; min-height: 100px">
-    <img src="./.assets/nginx.png" alt="Nginx" height="40"/>
-    <img src="./.assets/mysql.png" alt="mySQL" height="40"/>
-    <img src="./.assets/rabbitmq.png" alt="Rabbitmq" height="40"/>
-    <img src="./.assets/socketio.png" alt="GraphQL"" height="40"/>
-    <img src="./.assets/kafka.png" alt="Kafka" height="40"/>
-    <img src="./.assets/spring.png" alt="Spring" height="40"/>
-    <img src="./.assets/apollo.svg" alt="Apollo Server" height="40"/>
-    <img src="./.assets/fastapi.png" alt="FastAPI" height="40"/>
+<div align="center">
+    <img src="./.assets/nginx.png" alt="Nginx" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/mysql.png" alt="mySQL" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/rabbitmq.png" alt="Rabbitmq" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/socketio.png" alt="GraphQL"" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/kafka.png" alt="Kafka" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/spring.png" alt="Spring" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/apollo.svg" alt="Apollo Server" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/fastapi.png" alt="FastAPI" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/pandas.png" alt="Pandas" height="40"/>
 </div>
 
