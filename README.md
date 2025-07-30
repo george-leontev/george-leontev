@@ -11,10 +11,10 @@
 ## 🛠️ My Tech Stack
 
 ### Programming languages
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 22px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px;">
     <img src="./.assets/typescript.svg" alt="TypeScript" height="40"/>
     <img src="./.assets/javascript.svg" alt="JavaScript" height="40"/>
-    <img src="./.assets/java.png" alt="Java" height="40"/>
+    <img src="./.assets/java.svg" alt="Java" height="40"/>
     <img src="./.assets/python.svg" alt="Python" height="40"/>
 </div>
 
@@ -22,7 +22,7 @@
 
 ### Major skills with rich experience 🔥
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 22px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px;">
     <img src="./.assets/nodejs.png" alt="Node.js" height="34"/>
     <img src="./.assets/nest.png" alt="NestJS" height="34"/>
     <img src="./.assets/react.png" alt="React" height="34"/>
@@ -39,7 +39,7 @@
 
 ### Skills with minor experience 🌱
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 22px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px;">
     <img src="./.assets/nginx.png" alt="Nginx" height="40"/>
     <img src="./.assets/mysql.png" alt="mySQL" height="34"/>
     <img src="./.assets/rabbitmq.png" alt="Rabbitmq" height="68"/>
