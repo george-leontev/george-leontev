@@ -12,10 +12,10 @@
 
 ### Programming languages
 <div align="center">
-    <img src="./.assets/typescript.svg" alt="TypeScript" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./.assets/javascript.svg" alt="JavaScript" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./.assets/java.svg" alt="Java" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./.assets/python.svg" alt="Python" height="40"/>
+    <img src="./.assets/typescript.svg" alt="TypeScript" height="44"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/javascript.svg" alt="JavaScript" height="44"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/java.png" alt="Java" height="44"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/python.svg" alt="Python" height="44"/>
 </div>
 
 <hr>
