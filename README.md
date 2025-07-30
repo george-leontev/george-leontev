@@ -11,7 +11,7 @@
 ## 🛠️ My Tech Stack
 
 ### Programming languages
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 22px; height: 100px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 22px;">
     <img src="./.assets/typescript.svg" alt="TypeScript" height="40"/>
     <img src="./.assets/javascript.svg" alt="JavaScript" height="40"/>
     <img src="./.assets/java.png" alt="Java" height="40"/>
@@ -22,7 +22,7 @@
 
 ### Major skills with rich experience 🔥
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 22px; height: 100px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 22px;">
     <img src="./.assets/nodejs.png" alt="Node.js" height="40"/>
     <img src="./.assets/nest.png" alt="NestJS" height="40"/>
     <img src="./.assets/react.png" alt="React" height="40"/>
@@ -39,7 +39,7 @@
 
 ### Skills with minor experience 🌱
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 22px; height: 100px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 22px;">
     <img src="./.assets/nginx.png" alt="Nginx" height="80"/>
     <img src="./.assets/mysql.png" alt="mySQL" height="40"/>
     <img src="./.assets/rabbitmq.png" alt="Rabbitmq" height="80"/>
