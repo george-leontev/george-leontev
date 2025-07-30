@@ -75,12 +75,3 @@
 ####     <li>Telegram: <a href="https://t.me/Egor_Leontev24">Egor_Leontev24</a></li>
 ####     <li>Email: <a href="mailto:egorleontev54@gmail.com?subject=Вопрос по сотрудничеству&body=Здравствуйте!">egorleontev54@gmail.com<a/></li>
 #### </ul>
-
-<div align="center">
-    <a href="https://t.me/Egor_Leontev24" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="40"/>
-    </a>
-    <a href="https://mail.google.com/mail/u/0/popout?ver=zs1qyhlt6gr6#th%253D%252523thread-a%25253Ar724545866289666095">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40"//>
-    </a>
-</div>
