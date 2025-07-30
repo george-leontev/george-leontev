@@ -26,7 +26,7 @@
     <img src="./.assets/nodejs.png" alt="Node.js" height="34"/>
     <img src="./.assets/nest.png" alt="NestJS" height="34"/>
     <img src="./.assets/react.png" alt="React" height="34"/>
-    <img src="./.assets/nextjs.svg" alt="NextJS" height="48"/>
+    <img src="./.assets/nextjs.svg" alt="NextJS" height="34"/>
     <img src="./.assets/docker.png" alt="Docker" height="34"/>
     <img src="./.assets/linux.png" alt="Linux" height="34"/>
     <img src="./.assets/swagger.png" alt="Swagger" height="34"/>
@@ -41,13 +41,13 @@
 
 <div align="center">
     <img src="./.assets/nginx.png" alt="Nginx" height="40"/>
-    <img src="./.assets/mysql.png" alt="mySQL" height="34"/>
-    <img src="./.assets/rabbitmq.png" alt="Rabbitmq" height="68"/>
-    <img src="./.assets/socketio.png" alt="GraphQL"" height="68"/>
+    <img src="./.assets/mysql.png" alt="mySQL" height="40"/>
+    <img src="./.assets/rabbitmq.png" alt="Rabbitmq" height="40"/>
+    <img src="./.assets/socketio.png" alt="GraphQL"" height="40"/>
     <img src="./.assets/kafka.png" alt="Kafka" height="40"/>
-    <img src="./.assets/spring.png" alt="Spring" height="68"/>
+    <img src="./.assets/spring.png" alt="Spring" height="40"/>
     <img src="./.assets/apollo.svg" alt="Apollo Server" height="40"/>
-    <img src="./.assets/fastapi.png" alt="FastAPI" height="68"/>
+    <img src="./.assets/fastapi.png" alt="FastAPI" height="40"/>
 </div>
 
 <hr>
