@@ -71,6 +71,10 @@
 </div>
 
 ## 🤝 Feel free to contact with me
+#### <ul>
+####     <li>Telegram: <a href="https://t.me/Egor_Leontev24">Egor_Leontev24</a></li>
+####     <li>Email: <a href="mailto:egorleontev54@gmail.com?subject=Вопрос по сотрудничеству&body=Здравствуйте!">egorleontev54@gmail.com<a/></li>
+#### </ul>
 
 <div align="center">
     <a href="https://t.me/Egor_Leontev24" target="_blank">
