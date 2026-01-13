@@ -23,6 +23,8 @@
 ### Major skills with rich experience 🔥
 
 <div align="center">
+    <img src="./.assets/fastapi.png" alt="FastAPI" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/pandas.png" alt="Pandas" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/nodejs.png" alt="Node.js" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/nest.png" alt="NestJS" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/react.png" alt="React" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,7 +32,6 @@
     <img src="./.assets/docker.png" alt="Docker" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/linux.png" alt="Linux" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/swagger.png" alt="Swagger" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./.assets/graphql.png" alt="GraphQL"" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/postgres.png" alt="PostgreSQL" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/git.png" alt="Git" height="34"/>
 </div>
@@ -41,14 +42,13 @@
 
 <div align="center">
     <img src="./.assets/nginx.png" alt="Nginx" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/graphql.png" alt="GraphQL"" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/mysql.png" alt="mySQL" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/rabbitmq.png" alt="Rabbitmq" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/socketio.png" alt="GraphQL"" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/kafka.png" alt="Kafka" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/spring.png" alt="Spring" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/apollo.svg" alt="Apollo Server" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./.assets/fastapi.png" alt="FastAPI" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./.assets/pandas.png" alt="Pandas" height="40"/>
 </div>
 
 <hr>
@@ -56,8 +56,7 @@
 ### Soft skills and hobbies
 #### <ul>
 ####     <li>Teamwork</li>
-####     <li>Fast learner</li>
-####     <li>Passion for learning new technologies</li>
+####     <li>Learning new technologies</li>
 ####     <li>Music</li>
 ####     <li>Sport</li>
 ####     <li>Sense of humor</li>
