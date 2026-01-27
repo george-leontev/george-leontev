@@ -23,15 +23,15 @@
 ### Major skills with rich experience 🔥
 
 <div align="center">
-    <img src="./.assets/fastapi.png" alt="FastAPI" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./.assets/pandas.png" alt="Pandas" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/nodejs.png" alt="Node.js" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/nest.png" alt="NestJS" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/react.png" alt="React" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/pandas.png" alt="Pandas" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/nextjs.png" alt="NextJS" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/docker.png" alt="Docker" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/linux.png" alt="Linux" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/swagger.png" alt="Swagger" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/fastapi.png" alt="FastAPI" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/postgres.png" alt="PostgreSQL" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/git.png" alt="Git" height="34"/>
 </div>
