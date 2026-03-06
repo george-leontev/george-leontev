@@ -29,7 +29,6 @@
     <img src="./.assets/sql-alchemy.png" alt="SqlAlchemy" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/redis.png" alt="Redis" height="44" width="80" style="object-fit: cover; margin-bottom: -4px"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/react.png" alt="React" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./.assets/pandas.png" alt="Pandas" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/nextjs.png" alt="NextJS" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/nodejs.png" alt="Node.js" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/nest.png" alt="NestJS" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
