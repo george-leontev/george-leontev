@@ -12,10 +12,9 @@
 
 ### Programming languages
 <div align="center">
+    <img src="./.assets/python.svg" alt="Python" height="44"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/typescript.svg" alt="TypeScript" height="44"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./.assets/javascript.svg" alt="JavaScript" height="44"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./.assets/java.png" alt="Java" height="44" style="height:44px!important;"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./.assets/python.svg" alt="Python" height="44"/>
+    <img src="./.assets/javascript.svg" alt="JavaScript" height="44"/>
 </div>
 
 <hr>
@@ -23,15 +22,19 @@
 ### Major skills with rich experience 🔥
 
 <div align="center">
-    <img src="./.assets/nodejs.png" alt="Node.js" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./.assets/nest.png" alt="NestJS" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/fastapi.png" alt="FastAPI" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/flask.png" alt="FastAPI" height="46" width="80" style="object-fit: cover; margin-bottom: -5px"> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/pandas.png" alt="Pandas" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/postgres.png" alt="PostgreSQL" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/sql-alchemy.png" alt="SqlAlchemy" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/redis.png" alt="Redis" height="44" width="80" style="object-fit: cover; margin-bottom: -4px"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/react.png" alt="React" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/nextjs.png" alt="NextJS" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/nodejs.png" alt="Node.js" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/nest.png" alt="NestJS" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/docker.png" alt="Docker" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/linux.png" alt="Linux" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/swagger.png" alt="Swagger" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./.assets/graphql.png" alt="GraphQL"" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./.assets/postgres.png" alt="PostgreSQL" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/git.png" alt="Git" height="34"/>
 </div>
 
@@ -42,13 +45,14 @@
 <div align="center">
     <img src="./.assets/nginx.png" alt="Nginx" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/mysql.png" alt="mySQL" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./.assets/rabbitmq.png" alt="Rabbitmq" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./.assets/socketio.png" alt="GraphQL"" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./.assets/kafka.png" alt="Kafka" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./.assets/spring.png" alt="Spring" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/graphql.png" alt="GraphQL"" height="34"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./.assets/apollo.svg" alt="Apollo Server" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./.assets/fastapi.png" alt="FastAPI" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./.assets/pandas.png" alt="Pandas" height="40"/>
+    <img src="./.assets/rabbitmq.png" alt="Rabbitmq" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/mongo-db.png" alt="MongoDB"" height="50" style="margin-bottom: -4px"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/matplotlib.png" alt="Matplotlib" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/kafka.png" alt="Kafka" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/pytest.png" alt="Pytest" height="50" style="margin-bottom: -4px"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./.assets/socketio.png" alt="GraphQL"" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <hr>
